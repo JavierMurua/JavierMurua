@@ -17,9 +17,9 @@
 Una aplicación sencilla y funcional para gestionar tareas directamente desde el navegador.  
 - Desarrollada con **React** y **Vite**.  
 - Persistencia de datos en el navegador usando `localStorage`.  
-- [Ver repositorio](https://github.com/tuusuario/app-tareas-javier).
-</--
-### 🔎 [**Proyecto destacado 2**] (Título de ejemplo)  
+- [Ver repositorio](https://github.com/JavierMurua/app-tareas-javier).
+
+</-- ### 🔎 [**Proyecto destacado 2**] (Título de ejemplo)  
 Descripción breve de este proyecto, destacando qué lo hace único.  
 - Herramientas: [herramientas clave usadas].  
 - [Ver repositorio](#).  
@@ -42,8 +42,7 @@ Descripción breve de este proyecto, destacando qué lo hace único.
 **Herramientas de desarrollo:**  
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)  
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat-square)  
-</--
-**Otras tecnologías:**  
+</-- **Otras tecnologías:**  
 [Agrega aquí otras tecnologías clave como bases de datos, herramientas de CI/CD, etc.]
 -->
 ---
