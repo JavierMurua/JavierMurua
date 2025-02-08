@@ -30,7 +30,7 @@
 -----
 <p>Now, I build, optimize, and refine software with a focus on performance and scalability. My journey isn’t about mastering a single stack—it’s about mastering the art of continuous improvement.</p>
 
-<p>📌 Still learning. Still evolving. Still coding.</p>
+<p>📌 Transforming ideas into scalable digital solutions.</p>
 
 -----
 <br>
@@ -76,11 +76,10 @@
 
 <br>
 
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ---
 <br>
