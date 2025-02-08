@@ -79,7 +79,7 @@
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub stats](https://raw.githubusercontent.com/id1945/id1945/master/profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 ---
