@@ -99,16 +99,16 @@
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Have questions or want to collaborate? <br> Feel free to reach out via any of the platforms below:</h2>
 <p align="center">
-  <a href="mailto:javier@muruadev.com" >
+  <a href="mailto:javier@muruadev.com" style="text-decoration: none;">
     <img align="center" alt="Javier-Murua | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/javier-murua/" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-murua/" target="_blank" style="text-decoration: none;">
     <img align="center" alt="Javier-Murua | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/JavierMurua" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/JavierMurua" target="_blank" style="text-decoration: none;">
     <img align="center" alt="Javier-Murua | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
