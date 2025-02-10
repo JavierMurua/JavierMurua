@@ -11,7 +11,7 @@
 
 ---
 
-<a href="https://app.daily.dev/javiermurua"><img src="https://api.daily.dev/devcards/v2/8E1YouFrZVdeLDRaQ4cTR.png?type=default&r=2ho" align="left" width="400" height="500" alt="Javier Murúa's Dev Card"/></a>
+<a href="https://app.daily.dev/javiermurua"><img src="https://api.daily.dev/devcards/v2/8E1YouFrZVdeLDRaQ4cTR.png?type=default&r=1w1" align="left" width="400" height="500" alt="Javier Murúa's Dev Card"/></a>
 <p align="center">
 	<a href="mailto:javier@muruadev.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GitHub"></a>
 	<a href="https://profile-summary-for-github.herokuapp.com/user/JavierMurua"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Summary"></a>
