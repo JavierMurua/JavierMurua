@@ -1,7 +1,6 @@
 <p align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&size=75&duration=1400&pause=400&color=33FFFF&background=121212&center=true&multiline=true&width=1920&height=384&lines=Hi!+I%27m+Javier.;Enjoy+your+stay+on+my+profile;Happy+coding!" alt="Typing SVG" /></a>
 </p>
-<br>
 
 <h1 align="center"><b>Web Developer</b><br> I craft scalable and efficient web solutions.</h1>
 
