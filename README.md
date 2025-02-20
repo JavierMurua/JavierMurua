@@ -57,10 +57,36 @@
 
 **📍 Roadmap | What I'm Working On:**
 
-🔹 **Backend:** Going deeper into **NestJS** and **PostgreSQL**.  
-🔹 **Frontend:** Optimizing performance in **Next.js** and exploring new architectures.  
-🔹 **DevOps:** Experimenting with **Docker** and efficient deployments.  
-🔹 **Strategy:** Building a solid portfolio on GitHub.
+<table>
+  <thead align="center">
+    <tr>
+      <th>🔨 Task</th>
+      <th>📌 Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/JavierMurua/motivational-quotes-js-concepts" target="_blank">JavaScript Concepts Project</a></b></td>
+      <td>
+        <img src="https://img.shields.io/badge/%20Completed-darkgreen?style=flat-square" alt="Completed"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>TypeScript Concepts Project</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/%20In%20Progress-darkviolet?style=flat-square" alt="In Progress"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Node.js Concepts Project</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/%20Upcoming-darkred?style=flat-square" alt="Upcoming"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 <br>
