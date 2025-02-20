@@ -113,6 +113,18 @@
 <p align="center">
   <img src="https://github.com/JavierMurua/JavierMurua/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+<p align="center">
+  <img src="https://github.com/JavierMurua/JavierMurua/raw/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/JavierMurua/JavierMurua/raw/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+</p>
+
+
+
 ---
 <br>
 <br>
