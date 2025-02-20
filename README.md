@@ -106,6 +106,13 @@
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<p align="center">
+  <img src="https://github.com/JavierMurua/JavierMurua/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 ---
 <br>
 <br>
@@ -123,6 +130,8 @@
 <br>
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Have questions or want to collaborate? <br> Feel free to reach out via any of the platforms below:</h2>
+
+
 <p align="center">
   <a href="mailto:javier@muruadev.com" style="text-decoration: none;">
     <img align="center" alt="Javier-Murua | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
