@@ -24,3 +24,12 @@ jobs:
         with:
           name: github-snake
           path: dist/github-contribution-grid-snake.svg
+
+      - name: Subir imagen al repositorio
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git pull origin main
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Updated snake animation"
+          git push origin main
