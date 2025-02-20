@@ -104,20 +104,6 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
-
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<p align="center">
-  <img src="https://github.com/JavierMurua/JavierMurua/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-<p align="center">
-  <img src="https://github.com/JavierMurua/JavierMurua/raw/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
-</p>
-
 
 <p align="center">
   <img src="https://github.com/JavierMurua/JavierMurua/raw/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
