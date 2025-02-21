@@ -72,7 +72,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>TypeScript Concepts Project</b></td>
+      <td><b><a href="https://github.com/JavierMurua/tasks-app-ts-concepts" target="_blank">TypeScript Concepts Project</a></b></td>
       <td>
         <img src="https://img.shields.io/badge/%20In%20Progress-darkviolet?style=flat-square" alt="In Progress"/>
       </td>
@@ -85,6 +85,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
