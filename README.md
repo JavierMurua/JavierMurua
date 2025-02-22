@@ -83,6 +83,12 @@
         <img src="https://img.shields.io/badge/%20Upcoming-darkred?style=flat-square" alt="Upcoming"/>
       </td>
     </tr>
+    <tr>
+      <td><b>New portfolio with Astro</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/%20Upcoming-darkred?style=flat-square" alt="Upcoming"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
