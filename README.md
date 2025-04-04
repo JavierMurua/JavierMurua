@@ -114,9 +114,13 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
-<p align="center">
-  <img src="https://github.com/JavierMurua/JavierMurua/raw/main/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
-</p>
+<div align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavierMurua/JavierMurua/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavierMurua/JavierMurua/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JavierMurua/JavierMurua/output/github-snake.svg" />
+</picture>
+</div>
 
 
 ---
